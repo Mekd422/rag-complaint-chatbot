@@ -10,3 +10,6 @@ gradio
 streamlit
 pytest
 langchain
+transformers
+torch
+accelerate

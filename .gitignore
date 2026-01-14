@@ -4,6 +4,8 @@ __pycache__/
 .env
 .venv
 venv/
+src/__pycache__/
+src/complaint_embeddings.parquet
 
 # Jupyter
 .ipynb_checkpoints/
